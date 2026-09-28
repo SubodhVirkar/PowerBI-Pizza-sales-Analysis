@@ -1,7 +1,7 @@
 # 🍕 Pizza Sales Analysis Dashboard
 
 ## 📌 Project Overview
-This project analyzes pizza sales data using Microsoft Power BI to understand sales performance, customer ordering patterns, and product trends. The dashboard helps identify key business insights and supports data-driven decision-making.
+This project analyzes pizza sales data using Microsoft Power BI to understand sales performance, customer ordering patterns and product trends. The dashboard helps identify key business insights and supports data-driven decision-making.
 
 ## 🎯 Project Objectives
 - Analyze total revenue and sales performance.
